@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">533059160504</string>
+  <string name="achievement_rookie_pilot">CgkIuJO15sEPEAIQAQ</string>
+  <string name="achievement_apprentice_pilot">CgkIuJO15sEPEAIQAg</string>
+  <string name="achievement_getting_the_hang_of_it">CgkIuJO15sEPEAIQAw</string>
+  <string name="achievement_talent_rising">CgkIuJO15sEPEAIQBA</string>
+  <string name="achievement_sore_thumbs">CgkIuJO15sEPEAIQBQ</string>
+  <string name="achievement_hardened_thumbs">CgkIuJO15sEPEAIQBg</string>
+  <string name="achievement_fortified_stamina">CgkIuJO15sEPEAIQBw</string>
+  <string name="achievement_ace_pilot__terror_of_the_skies">CgkIuJO15sEPEAIQCA</string>
+  <string name="achievement_tree_fiddy">CgkIuJO15sEPEAIQCQ</string>
+  <string name="achievement_a_faaaasand_points">CgkIuJO15sEPEAIQCg</string>
+  <string name="achievement_1337_true_elite">CgkIuJO15sEPEAIQCw</string>
+  <string name="achievement_are_we_there_yet">CgkIuJO15sEPEAIQDA</string>
+  <string name="achievement_feeling_cocky_yet">CgkIuJO15sEPEAIQDQ</string>
+  <string name="achievement_over_nine_thousand">CgkIuJO15sEPEAIQDg</string>
+  <string name="achievement_i_am_robotron_destroyer_of_games">CgkIuJO15sEPEAIQDw</string>
+  <string name="leaderboard_leaderboard">CgkIuJO15sEPEAIQEA</string>
+</resources>
